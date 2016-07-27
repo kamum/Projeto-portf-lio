@@ -171,8 +171,8 @@ img {max-width: 100%;}
 .menu {width: auto; height: 56px; top: 21px; float: right; display: block !important; position: absolute; background: none; transform: translateX(0%);}
 .menu .social-button {display:none;}
 .menu ul {margin: 0;}
-.menu li {padding: 0; float: left;}
-.menu li a {color: #888888; font-size: 1.3em; padding: 15px;}
+.menu li {padding: 0; float: left; padding: 24px 20px 0 0;}
+.menu li a {color: #888888; font-size: 1.3em; padding: 0;}
 .menu li a:hover,.menu li a:active {color: #ED5353;}
 .menu li a:after,.menu li a:before {-webkit-backface-visibility: hidden; backface-visibility: hidden; border: 1px solid rgba(237, 83, 83, 0); content: " "; display: block; margin: 0 auto; -webkit-transition: all 280ms ease-in-out; transition: all 280ms ease-in-out; width: 0;}
 .menu li a:hover:after,.menu li a:hover:before {-webkit-backface-visibility: hidden; backface-visibility: hidden; border-color: #ED5353; -webkit-transition: width 350ms ease-in-out; transition: width 350ms ease-in-out; width: 100%;}
